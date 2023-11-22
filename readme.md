@@ -2,7 +2,7 @@
 
 **Warning:** This program involves automatic mouse clicks. Incorrect usage may lead to undefined behavior.
 
-A Minesweeper solver that automatically sweeps the mines based on inference algorithms and light graphic recognition. It does not cheat, but always behaves optimally when logic solution exists.
+A Minesweeper solver that automatically sweeps the mines based on inference algorithms and light graphic recognition. It does not cheat but always behaves optimally when a logical solution exists.
 
 ### How to Run:
 
